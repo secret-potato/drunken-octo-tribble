@@ -1,0 +1,2 @@
+def hey(num):
+  return num*num
